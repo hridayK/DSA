@@ -1,6 +1,11 @@
-import java.lang.reflect.Array;
 import java.util.*;
+
 public class perfectAnagram {
+
+    /*
+     * Link for the problem:
+     * https://leetcode.com/problems/valid-anagram/submissions/817710354/
+     */
 
     public static void main(String[] args) {
         String s = "anagram";
